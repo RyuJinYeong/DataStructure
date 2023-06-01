@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\Program Files\Unity\Hub\Editor\2020.3.6f1\Editor\Data\PlaybackEngines\AndroidPlayer\OpenJDK" version="1.8.0_202">
+<bootpath>
+<entry path="C:\Program Files\Unity\Hub\Editor\2020.3.6f1\Editor\Data\PlaybackEngines\AndroidPlayer\OpenJDK\lib\resources.jar"/>
+<entry path="C:\Program Files\Unity\Hub\Editor\2020.3.6f1\Editor\Data\PlaybackEngines\AndroidPlayer\OpenJDK\lib\rt.jar"/>
+<entry path="C:\Program Files\Unity\Hub\Editor\2020.3.6f1\Editor\Data\PlaybackEngines\AndroidPlayer\OpenJDK\lib\sunrsasign.jar"/>
+<entry path="C:\Program Files\Unity\Hub\Editor\2020.3.6f1\Editor\Data\PlaybackEngines\AndroidPlayer\OpenJDK\lib\jsse.jar"/>
+<entry path="C:\Program Files\Unity\Hub\Editor\2020.3.6f1\Editor\Data\PlaybackEngines\AndroidPlayer\OpenJDK\lib\jce.jar"/>
+<entry path="C:\Program Files\Unity\Hub\Editor\2020.3.6f1\Editor\Data\PlaybackEngines\AndroidPlayer\OpenJDK\lib\charsets.jar"/>
+<entry path="C:\Program Files\Unity\Hub\Editor\2020.3.6f1\Editor\Data\PlaybackEngines\AndroidPlayer\OpenJDK\lib\jfr.jar"/>
+<entry path="C:\Program Files\Unity\Hub\Editor\2020.3.6f1\Editor\Data\PlaybackEngines\AndroidPlayer\OpenJDK\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files\Unity\Hub\Editor\2020.3.6f1\Editor\Data\PlaybackEngines\AndroidPlayer\OpenJDK\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Program Files\Unity\Hub\Editor\2020.3.6f1\Editor\Data\PlaybackEngines\AndroidPlayer\OpenJDK\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

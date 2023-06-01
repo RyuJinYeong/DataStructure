@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;DS_14_20185237/src/post&apos;&#x0D;&#x0A;- Original project: &apos;DS_14_20185237&apos;&#x0D;&#x0A;- Destination element: &apos;DS_14_20185237/src/post&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     linkedstack.LinkedStack.java&#x0D;&#x0A;     linkedstack.ListNode.java" description="Copy compilation units" destination="/src&lt;post" element1="/src&lt;linkedstack{LinkedStack.java" element2="/src&lt;linkedstack{ListNode.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1654424787385" units="2" version="1.0"/>
+</session>
